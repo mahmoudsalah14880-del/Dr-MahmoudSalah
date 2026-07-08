@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مراجعة ليلة الامتحان 2026 - Geology - د/ محمود صلاح</title>
+    <style>
+        /* تنسيقات عامة للموقع */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f6fa;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* حاوية المحتوى الرئيسية */
+        .main-container {
+            max-width: 750px;
+            width: 92%;
+            margin: 30px auto;
+            background: #ffffff;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+        }
+
+        /* تنسيق الصورة الترحيبية للدكتور */
+        .welcome-banner {
+            width: 100%;
+            max-height: 550px;
+            object-fit: cover;
+            display: block;
+        }
+
+        /* قسم الرسالة الترحيبية */
+        .intro-section {
+            padding: 30px 25px;
+            text-align: center;
+            background: linear-gradient(to bottom, #ffffff, #fcfafb);
+            border-bottom: 2px dashed #e1d5da;
+        }
+
+        .intro-section h1 {
+            color: #6b1426; /* لون عنابي متناسق مع الصورة */
+            margin-top: 0;
+            font-size: 26px;
+            font-weight: 800;
+        }
+
+        .teacher-message {
+            font-size: 17px;
+            color: #4a4a4a;
+            white-space: pre-line; /* للحفاظ على تنسيق الأسطر كما كتبت */
+            font-weight: 500;
+        }
+
+        /* محتوى الفيديوهات والروابط */
+        .content-section {
+            padding: 25px;
+        }
+
+        .section-title {
+            font-size: 19px;
+            color: #111;
+            margin-bottom: 15px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        /* تنسيق كارت الفيديو المميز (الأول) */
+        .main-video-card {
+            background: #6b1426;
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-decoration: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            box-shadow: 0 6px 15px rgba(107, 20, 38, 0.25);
+            transition: all 0.3s ease;
+        }
+
+        .main-video-card:hover {
+            background: #520e1c;
+            transform: translateY(-3px);
+        }
+
+        .main-video-text {
+            flex: 1;
+        }
+
+        .main-video-text h3 {
+            margin: 0 0 5px 0;
+            font-size: 18px;
+        }
+
+        .main-video-text p {
+            margin: 0;
+            font-size: 14px;
+            opacity: 0.9;
+        }
+
+        /* قائمة الدروس الأخرى */
+        .lessons-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        /* أزرار روابط الدروس */
+        .lesson-item {
+            background: #ffffff;
+            border: 1.5px solid #e1e8ed;
+            color: #2c3e50;
+            padding: 16px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+
+        .lesson-item:hover {
+            border-color: #6b1426;
+            color: #6b1426;
+            background: #fdf7f8;
+            transform: translateX(-5px);
+        }
+
+        .play-btn {
+            background: #ff0000;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+
+        /* التذييل ومعلومات التواصل */
+        .footer-section {
+            background: #1a1a1a;
+            color: #ffffff;
+            text-align: center;
+            padding: 25px;
+            font-size: 15px;
+        }
+
+        .footer-closing {
+            font-weight: bold;
+            color: #f1c40f;
+            margin-bottom: 10px;
+        }
+
+        .contact-numbers {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+
+        .phone-link {
+            color: #ffffff;
+            text-decoration: none;
+            background: #333;
+            padding: 6px 12px;
+            border-radius: 6px;
+            direction: ltr;
+            display: inline-block;
+            font-size: 14px;
+        }
+
+        .phone-link:hover {
+            background: #444;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="main-container">
+        
+        <!-- الصورة الشخصية والترحيبية في الأعلى -->
+        <img src="https://images.unsplash.com/photo-1720427778262-63bfaec5bfbc?q=80&w=800" alt="د/ محمود صلاح" class="welcome-banner">
+
+        <!-- رسالة الدكتور لطلابه -->
+        <div class="intro-section">
+            <h1>مراجعة ليلة الامتحان 2026 <br><small style="font-size: 18px; color: #888;">Geology</small></h1>
+            <p class="teacher-message">طلابى وحبايبى السلام عليكم ورحمة الله وبركاته 
+            فاضل خطوة وتخلص سنة من أهم سنوات حياتك 
+            تعلمتم فيها الكثير وتحملتم المسئولية وبذلتم كل ما لديكم 
+            وفقكم الله ورزقكم ما تتمنون 
+            
+            د/ محمود صلاح</p>
+        </div>
+
+        <div class="content-section">
+            
+            <!-- الفيديو الأساسي الهام جداً -->
+            <div class="section-title">📌 محاضرة هامة جداً قبل الحضور:</div>
+            <a href="https://youtu.be/HIlX6ALSZEQ" target="_blank" class="main-video-card">
+                <div class="main-video-text">
+                    <h3>الفيديو الأول ( أهم نقاط المنهج )</h3>
+                    <p>دة لجميع الطلاب لازم تشوفه قبل حضورك محاضرة ليلة الامتحان</p>
+                </div>
+                <div class="play-btn" style="background: #fff; color: #ff0000; font-size: 16px;">▶</div>
+            </a>
+
+            <!-- بقية المنهج والدروس بالترتيب -->
+            <div class="section-title">📚 مراجعة الدروس والمنهج بالترتيب:</div>
+            <p style="color: #666; font-size: 14px; margin-top: -5px; margin-bottom: 15px;">أى طالب حابب يراجع درس معين أو المنهج كله يقدر يتابع من خلال الروابط التالية:</p>
+            
+            <div class="lessons-list">
+                
+                <a href="https://youtu.be/2ZpC9iV2cPo" target="_blank" class="lesson-item">
+                    <span>📖 الدرس الأول</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+                <a href="https://youtu.be/q_2OpmWvVCI" target="_blank" class="lesson-item">
+                    <span>📖 الدرس الثاني</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+                <a href="https://youtu.be/JsMtdSInUQQ" target="_blank" class="lesson-item">
+                    <span>📖 الدرس الثالث</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+                <a href="https://youtu.be/fFsRP4AgzcM" target="_blank" class="lesson-item">
+                    <span>📖 الدرس الرابع</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+                <a href="https://youtu.be/8p9lX9KsAgg" target="_blank" class="lesson-item">
+                    <span>📖 الدرس الخامس</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+                <a href="https://youtu.be/p9It2Y3L358" target="_blank" class="lesson-item">
+                    <span>📖 تابع الدرس الخامس</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+                <a href="https://youtu.be/zw6ZaSCRkZo" target="_blank" class="lesson-item">
+                    <span>📖 الدرس الأخير</span>
+                    <span class="play-btn">▶</span>
+                </a>
+
+            </div>
+        </div>
+
+        <!-- التذييل وأرقام التواصل -->
+        <div class="footer-section">
+            <div class="footer-closing">نلتقى على خير يا شباب .. والله الموفق والمستعان</div>
+            <div>د/ محمود صلاح</div>
+            <div class="contact-numbers">
+                <a href="tel:01141364034" class="phone-link">📞 01141364034</a>
+                <a href="tel:01064389871" class="phone-link">📞 01064389871</a>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
